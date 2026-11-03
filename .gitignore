@@ -1,0 +1,6 @@
+node_modules/
+.env
+whatsasena.json
+/tmp/
+.DS_Store
+*.log

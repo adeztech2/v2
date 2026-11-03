@@ -1,0 +1,11 @@
+{
+  "name": "ADEZ-XMD",
+  "description": "WhatsApp bot project",
+  "repository": "https://github.com/adeztech2/v2",
+  "logo": "https://raw.githubusercontent.com/novaxmd/NOVA-XMD/main/bmbxmd.jpg",
+  "keywords": ["whatsapp", "bot", "baileys", "automation"],
+  "stack": "heroku-24",
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-nodejs" }
+  ]
+}
